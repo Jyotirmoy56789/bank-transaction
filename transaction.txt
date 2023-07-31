@@ -1,0 +1,5 @@
+deposited {amount}
+withdrew {amount}
+deposited 90.0 			balance: 140.5
+deposited 90.0 			balance: 230.5
+withdrew 60.0 			balance: -9.5
